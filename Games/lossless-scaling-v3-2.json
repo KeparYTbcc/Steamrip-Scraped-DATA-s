@@ -1,0 +1,28 @@
+{
+    "page_url": "https://steamrip.com/lossless-scaling-free-download/",
+    "title": "Lossless Scaling",
+    "description": "Lossless Scaling allows you to scale windowed games to full screen using the state-of-the-art scaling algorithms, as well as use ML based proprietary scaling and frame generation . Esports Godfather\nFrame generation options:\nScaling options:\nThe latest feature allows you to use Lossless Scaling to generate additional frames in games that do not have such support, including emulators .\nLossless Scaling is also useful for upscaling modern games if you cannot run them at native screen resolution (GPU limited) and want to get rid of blur due to bilinear scaling of the GPU driver, as well as for upscaling older and pixel-art games which do not support modern screen resolutions or full screen mode.\nFor modern games it is best to use LS1 or AMD FSR. For scaling pixel-art games, use Integer Scaling or xBR. Anime4K is best suited for cartoons or anime .\nScaling makes sense when you are limited by GPU power. For the best experience, limit the game to a stable frame rate so that Lossless Scaling has resources to work with.",
+    "screenshots": [
+        "https://steamrip.com/wp-content/uploads/2024/05/lossless-scaling-steamrip.jpg",
+        "https://steamrip.com/wp-content/uploads/2024/05/lossless-scaling-screenshots-steamrip.jpg"
+    ],
+    "system_requirements": {
+        "OS": "Windows 10 1903 x64",
+        "Graphics": "Intel HD",
+        "DirectX": "Version 11",
+        "Storage": "1 GB available space"
+    },
+    "game_info": {
+        "Genre": "Utilities",
+        "Developer": "THS",
+        "Platform": "PC",
+        "Game Size": "100 MB",
+        "Released By": "csrinru (Thanks neftalito)",
+        "Version": "v3.2 | CSF + Registry Fix",
+        "Pre-Installed Game": ""
+    },
+    "download_links": [
+        "https://buzzheavier.com/vpobznb8hoxy"
+    ],
+    "cover_image": "https://steamrip.com/wp-content/uploads/2024/05/lossless-scaling-preinstalled-steamrip.jpg"
+}
