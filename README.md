@@ -10,6 +10,9 @@ A Python application for scraping game data from SteamRip and downloading game f
 - **Multi-threaded Scraping**: Fast database updates with concurrent processing
 - **Error Recovery**: Retry failed scrapes and maintain failed games list
 
+## Quick mention
+the "Games" folder aint needed for the code, its pre-scrapped datas, if u want to look at it, but might get outdated by the time
+
 ## Installation
 
 1. **Clone or download the project**
@@ -151,3 +154,4 @@ For detailed debugging, the scripts output progress information to stderr. Check
 ## License
 
 This project is for educational purposes. Please respect the terms of service of the websites you interact with.
+
